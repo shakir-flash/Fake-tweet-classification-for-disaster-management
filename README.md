@@ -1,6 +1,5 @@
-# project-final
-
-Final project repo for INFO 523 - Fall 2023.
+# Fake-tweet-classification-for-disaster-management
+Project to extract real time tweets (Tweepy- using Nitter scraper) and classify as fake or real for disaster management using LSTM model.
 
 ## Tweet Analytics for Disaster & Calamity Management
 
@@ -62,7 +61,3 @@ The major motivation behind the proposed project is to save lives and improve pu
 -   `proposal.qmd` : This quarto documents has the proposal of the project.
 
 -   `project-final.Rproj` : This is an RStudio project file, which helps organize R-related files and settings for the project.
-
-#### Disclosure:
-
-Derived from the original data viz course by Mine Çetinkaya-Rundel \@ Duke University
